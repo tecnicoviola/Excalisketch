@@ -231,40 +231,4 @@ cd apps/ws-backend && pnpm dev
 **Validation & Auth:** Zod, JWT
 **UI Framework:** Shadcn UI, Custom React Components
 
----
-
-## 👨‍💻 Author
-
-**[Your Name]**
-Full-Stack Developer | JavaScript • TypeScript • React • Node.js
-
-📧 [yourname@example.com](mailto:yourname@example.com)
-🔗 [LinkedIn](https://linkedin.com/in/your-linkedin)
-🐙 [GitHub](https://github.com/your-github)
-
----
-
-## 📜 License
-
-MIT License © 2025 [Your Name]
-
----
-
-### 🌟 If you found this project useful, please give it a star ⭐ on GitHub!
-
-```
-
----
-
-### 💡 Highlights of this README:
-- Fully **formatted and copy-paste ready** ✅  
-- Uses emoji-enhanced structure for readability  
-- Clear **setup instructions** and `.env` templates  
-- **Professional tone** suitable for portfolio and recruiters  
-- Includes **resume-ready achievements** and **architecture diagram**
-
----
-
-Would you like me to add a **small “Screenshots / Demo GIF” section** (with placeholders) at the top so it looks even more professional on GitHub?
-```
 
