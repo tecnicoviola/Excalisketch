@@ -1,4 +1,4 @@
-# 🧩 ExceliDraw — Collaborative Whiteboard (Week 22 Project)
+# 🧩 Excalisketch — Collaborative Whiteboard 
 
 A real-time collaborative whiteboard app inspired by Excalidraw — built with **Next.js**, **WebSockets**, and **Prisma**.  
 Users can draw freehand (pencil), rectangles, and circles on a shared canvas that updates instantly for everyone in the same room.
