@@ -1,4 +1,4 @@
-# 🧩 ExceliDraw — Real-Time Collaborative Whiteboard  
+# 🧩 Excalisketch — Real-Time Collaborative Whiteboard  
 
 > A **real-time collaborative whiteboard** built with **Next.js**, **WebSockets**, and **Prisma ORM**.  
 > Draw, collaborate, and share sketches live — all from your browser.  
@@ -189,8 +189,8 @@ cd apps/ws-backend && pnpm dev
          │                          │
          │                          ▼
          │                   ┌────────────┐
-         └──────────────────> │ PostgreSQL │
-                              └────────────┘
+         └──────────────────>│ PostgreSQL │
+                             └────────────┘
 ```
 
 ---
@@ -230,5 +230,4 @@ cd apps/ws-backend && pnpm dev
 **Architecture:** Turborepo + pnpm workspaces
 **Validation & Auth:** Zod, JWT
 **UI Framework:** Shadcn UI, Custom React Components
-
 
